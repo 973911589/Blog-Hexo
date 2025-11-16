@@ -2,16 +2,16 @@
 ## 文档: https://hexo.io/docs/configuration.html
 
 # 网站
-title: "符号看象限"
-subtitle: ""
-description: "博客、分享、经验、教程"
-keywords: "御坂网络工作室,博客,分享,经验,教程"
-author: "YangRucheng"
+title: "D3xian"
+subtitle: "开心每一天！"
+description: "生命在于折腾"
+keywords: "研究,博客,分享,测试,教程"
+author: "D3xian"
 language: "zh-CN"
 timezone: "Asia/Shanghai"
 
 # 链接
-url: https://blog.yangrucheng.top
+url: https://www.yanx.in
 permalink: posts/:year/:month/:hash/
 pretty_urls:
   trailing_index: false
