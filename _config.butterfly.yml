@@ -10,10 +10,10 @@ favicon: https://github.com/973911589.png
 
 # 社交图标
 social:
-  fab fa-github: https://github.com/YangRucheng/Blog-Hexo || Github
+  fab fa-github: https://github.com/973911589 || Github
   fab fa-qq: https://qm.qq.com/q/rtZpWJIgPQ || QQ
   fab fa-bilibili: https://space.bilibili.com/472876342 || 哔哩哔哩
-  fas fa-envelope: mailto:admin@yangrucheng.top || Email
+  fas fa-envelope: jd973911589@gmail.com || Email
 
 # 头像
 avatar:
