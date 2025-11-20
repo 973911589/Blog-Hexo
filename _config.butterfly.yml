@@ -59,7 +59,7 @@ cover:
   index_enable: true
   aside_enable: true
   archives_enable: true
-  default_cover: https://api.anosu.top/img/?sort=furry
+  default_cover: https://image.d3xian.net/file/1746371158677_2b2b2ee488a3fbc39b4591aa6a43518d.jpg
 
 # 评论
 comments:
