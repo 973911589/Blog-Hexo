@@ -11,7 +11,7 @@ language: "zh-CN"
 timezone: "Asia/Shanghai"
 
 # 链接
-url: https://www.yanx.in
+url: https://www.jiadong.one
 permalink: posts/:year/:month/:hash/
 pretty_urls:
   trailing_index: false
